@@ -52,12 +52,12 @@
 
 Dana
 
-[ ] email Stan, DtAoM, etc for videos. We want three variants.
++ [ ] email Stan, DtAoM, etc for videos. We want three variants.
 Ideas:
 
-+ Starbird Old (MMM - single presenter) & New (simultaneous groups)
-+ Mahavier Sr Moore Method (online)
-+ DtAoM (large class with group work!)
+	+ Starbird Old (MMM - single presenter) & New (simultaneous groups)
+	+ Mahavier Sr Moore Method (online)
+	+ DtAoM (large class with group work!)
 
 TJ
 
