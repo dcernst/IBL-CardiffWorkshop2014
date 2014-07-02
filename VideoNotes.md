@@ -1,6 +1,4 @@
-
 # Stan’s comments about videos #
-
 
 Go with:
 
