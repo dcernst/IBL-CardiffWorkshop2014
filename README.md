@@ -1,5 +1,5 @@
 # Overview #
-These materials are for the Workshop on Innovations in Higher Education Mathematics Teaching, Cardiff University, Cardiff, Wales UK, 7-9 July 2014.
+These materials are for the [Workshop on Innovations in Higher Education Mathematics Teaching](http://mathsevents.cf.ac.uk/mathedworkshop/index.html), Cardiff University, Cardiff, Wales UK, 7-9 July 2014.
 
 # License Information #
 This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0](http://creativecommons.org/licenses/by-sa/3.0/us/) license.  You are free to:
