@@ -2,6 +2,10 @@
 
 \usepackage{spot}
 
+\usepackage{tikz}
+\usetikzlibrary{shapes}
+\usetikzlibrary{decorations.pathmorphing} 
+
 \usepackage{color}
 \definecolor{darkblue}{rgb}{0, 0, .6}
 \definecolor{midnightblue}{rgb}{.2, .2, .7}
@@ -165,7 +169,7 @@ Schoenfeld 1988, Muis 2004, Selden and Selden 1995/1999/2003, Dreyfus 2001, Sowd
 \begin{frame}
 
 \begin{columns}[c]
-\column{.7\textwidth}
+\column{.6\textwidth}
 \begin{block}{Talking About Leaving}
 \begin{itemize}
 \item About half of STEM majors switch to non-STEM.
@@ -177,12 +181,15 @@ Schoenfeld 1988, Muis 2004, Selden and Selden 1995/1999/2003, Dreyfus 2001, Sowd
 \item Weed-out culture.
 \end{itemize}
 \end{block}
-\column{.2\textwidth}
+\column{.3\textwidth}
 \begin{center}
-\includegraphics[width=1in]{Funnel.jpg}\\
-WRONG PIC
+\includegraphics[width=1.25in]{TalkingAboutLeaving.png}
 \end{center}
 \end{columns}
+
+\vspace{1em}
+
+E.~Seymour, N.M.~Hewitt. \emph{Talking about leaving: Why undergraduates leave the sciences}. Westview Press, 1997.
 
 \end{frame}
 
@@ -205,9 +212,37 @@ Boaler 1998, Kwon et al. 2005, Rassmussen et al. 2006, Smith 2006, Chappell 2006
 
 \begin{frame}
 
-\begin{block}{The Colorado Study}
-blah
+\begin{block}{The Colorado Study by Sandra Laursen et al.}
+\begin{itemize}
+%\item Comparing IBL vs non-IBL university mathematics courses.
+\item Quasi-experimental study: Data include 300 hours of classroom observation, 1100 surveys, 110 interviews, 220 tests, and 3200 academic transcripts, gathered from $>100$ course sections at 4 campuses over 2 years.
+\item Statistically significant advantages for students in IBL vs traditional courses.
+\end{itemize}
 \end{block}
+
+\vspace{-1em}
+
+\begin{center}
+\tikzstyle{block} = [rectangle, draw, fill=blue!20, text width=4em, text centered, rounded corners, minimum height=2.5em]
+\tikzstyle{line} = [draw, thick, stealth-]
+\begin{tikzpicture}[scale=.9]%[auto]%node distance = 2.5cm
+\node [block] (IBL) at (0,2.25) {{\scriptsize \textbf{IBL}}};
+\node [block] (interview) at (-5,0) {{\scriptsize \textbf{Interviews}}};
+\node [block] (salg) at (-3,0) {{\scriptsize \textbf{SALG}}};
+\node [block] (prepost) at (-1,0) {{\scriptsize \textbf{Pre/Post Tests}}};
+\node [block] (transcripts) at (1,0) {{\scriptsize \textbf{Transcripts}}};
+\node [block] (gender) at (3,0) {{\scriptsize \textbf{Gender}}};
+\node [block] (observations) at (5,0) {{\scriptsize \textbf{Observations}}};
+\node [block] (non-IBL) at (0,-2.25) {{\scriptsize \textbf{Non-IBL}}};
+\path [line] (IBL) -- (salg);
+\path [line] (IBL) -- (interview);
+\path [line] (IBL) -- (prepost);
+\path [line] (IBL) -- (transcripts);
+\path [line] (IBL) -- (gender);
+\path [line] (IBL) -- (observations);
+\end{tikzpicture}
+\end{center}
+
 
 \end{frame}
 
@@ -220,52 +255,59 @@ blah
 \item Deep engagement in rich mathematics,
 \item Opportunities to collaborate.
 \end{enumerate}
-
 \end{block}
-
-\end{frame}
-
-%% ----------------------------------------------------------------------
-
-\begin{frame}
 
 \begin{block}{Laursen et al. 2013}
-\begin{quote}
-``Our study indicates that the benefits of active learning experiences may be lasting and significant for some student groups, with no harm done to others. Importantly, ‘covering’ less material in inquiry-based sections had no negative effect on students’ later performance in the major."
-\end{quote}
-
-\vspace{1em}
-
-Kogan, M., & Laursen, S. L. (2013).  Assessing long-term effects of inquiry-based learning:  A case study from college mathematics.  Innovative Higher Education, 39(3).
+\emph{``Our study indicates that the benefits of active learning experiences may be lasting and significant for some student groups, with no harm done to others. Importantly, ‘covering’ less material in inquiry-based sections had no negative effect on students' later performance in the major."}
 \end{block}
-
-\end{frame}
-
-%% ----------------------------------------------------------------------
-
-\begin{frame}
 
 \begin{block}{Laursen et al. 2014}
-\begin{quote}
-``blah blah."
-\end{quote}
-
-\vspace{1em}
-
-reference???
+\emph{``Despite variation in how IBL was implemented, student outcomes are improved in IBL courses relative to traditionally taught courses, as assessed by general measures that apply across course types. Particularly striking, the use of IBL eliminates a sizable gender gap that disfavors women students in lecture-based courses."}
 \end{block}
 
 \end{frame}
 
 %% ----------------------------------------------------------------------
 
-\begin{frame}
+%\begin{frame}
+%
+%\begin{block}{Laursen et al. 2013}
+%\begin{quote}
+%``Our study indicates that the benefits of active learning experiences may be lasting and significant for some student groups, with no harm done to others. Importantly, ‘covering’ less material in inquiry-based sections had no negative effect on students’ later performance in the major."
+%\end{quote}
+%
+%\vspace{1em}
+%
+%Kogan, M., & Laursen, S. L. (2013).  Assessing long-term effects of inquiry-based learning:  A case study from college mathematics.  Innovative Higher Education, 39(3).
+%\end{block}
+%
+%\end{frame}
+%
+%%% ----------------------------------------------------------------------
+%
+%\begin{frame}
+%
+%\begin{block}{Laursen et al. 2014}
+%\begin{quote}
+%``blah blah."
+%\end{quote}
+%
+%\vspace{1em}
+%
+%reference???
+%\end{block}
+%
+%\end{frame}
 
-\begin{block}{Force Concept Inventory}
-blah
-\end{block}
+%% ----------------------------------------------------------------------
 
-\end{frame}
+%\begin{frame}
+%
+%\begin{block}{Force Concept Inventory}
+%blah
+%\end{block}
+%
+%\end{frame}
 
 %% ----------------------------------------------------------------------
 
