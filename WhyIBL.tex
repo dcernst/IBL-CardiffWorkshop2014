@@ -1,0 +1,67 @@
+\documentclass[9pt,handout]{beamer}
+
+\usepackage{color}
+\definecolor{darkblue}{rgb}{0, 0, .6}
+\definecolor{midnightblue}{rgb}{.2, .2, .7}
+\definecolor{grey}{rgb}{.7, .7, .7}
+
+\mode<presentation>
+
+\usetheme{Pittsburgh}
+\usecolortheme{seahorse}
+\useoutertheme{split}
+
+\setbeamertemplate{footline}[split, frame number]
+\setbeamertemplate{enumerate items}[default]
+\setbeamertemplate{itemize items}[circle]
+
+\setbeamersize{text margin left=6mm}
+\setbeamersize{text margin right=6mm}
+\setbeamersize{sidebar width right=0mm}
+\setbeamersize{sidebar width left=0mm}
+\setbeamertemplate{navigation symbols}{}
+
+\newtheorem{comments}{Comments}
+\newtheorem{question}{Question}
+\newtheorem{goal}{Goal}
+\newtheorem{remark}{Remark}
+\newtheorem{proposition}{Proposition}
+\newtheorem{conjecture}{Conjecture}
+
+\newcommand*\oldmacro{}
+\let\oldmacro\insertshorttitle
+\renewcommand*\insertshorttitle{
+\oldmacro\hfill
+\insertframenumber\,/\,\inserttotalframenumber}
+
+%% ----------------------------------------------------------------------  
+
+\begin{document}
+
+\def\newblock{\hskip .11em plus .33em minus .07em}
+
+\title[Inquiry-Based Education in Mathematics]
+{\textbf{Inquiry-Based Education in Mathematics: Models, Methods, \& Effectiveness for Higher Education}}
+\author[D.C.~Ernst and TJ Hitchman]{Dana C.~Ernst, Northern Arizona University\\
+Theron Hitchman, University of Northern Iowa}
+\institute{\url{http://danaernst.com}\\
+\url{http://www.uni.edu/theron/}}
+
+\vspace{1em}
+
+\date{\textbf{Workshop on Innovations in Higher Education Mathematics Teaching}\\
+Cardiff University, Cardiff, Wales UK, 7--9 July 2014}
+
+\frame{\titlepage}
+
+%% ----------------------------------------------------------------------
+
+\begin{frame}{\textbf{Very Exciting Slide Title}}
+
+Blah blah, yada yada.
+
+\end{frame}
+
+%% ----------------------------------------------------------------------
+
+\end{document}
