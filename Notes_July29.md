@@ -52,7 +52,7 @@
 
 Dana
 
-+ [ ] email Stan, DtAoM, etc for videos. We want three variants.
++ [x] email Stan, DtAoM, etc for videos. We want three variants.
 Ideas:
 
 	+ Starbird Old (MMM - single presenter) & New (simultaneous groups)

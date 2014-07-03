@@ -1,5 +1,11 @@
 *DRAFT*
 
+# Workshop Goals #
+
+1. Participants need to develop a working definition of IBL and a philosophy to go with it.
+2. Participants should have ideas of basic steps they can take towards and IBL environment in some specific context.
+3. Work during the workshop should be participant-driven
+
 # Day One (1.5 hours) #
 
 * Think-Pair-Share talk focusing on goals, leading to structural choices (40 mins)
@@ -12,7 +18,7 @@
 	* Note Cards time  -- "what do you want to see tomorrow?"
 
 
-### Day Two (3.5 hours)
+# Day Two (3.5 hours) #
 
 * greeting & 3x5 card summary (5-10 mins)
 * videos and discussion --- three model classrooms (60 mins)
