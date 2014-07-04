@@ -1,13 +1,10 @@
-# Stan’s comments about videos #
+# Starbird Videos #
 
 Go with:
 
 1. end of term
 2. First Day
 3. Developing a Sense of Proof
-
-
-I think you can sneak in 2-3 videos.  The clips I sent are longish, but you can use just a portion.
 
 The first -- just highlight Royal's Proof.
 
@@ -16,3 +13,14 @@ Then go to "Developing a sense of proof" and show Virginia's proof.  This gives 
 # Discovering the Art of Mathematics Videos #
 
 The [Discovering the Art of Mathematics](http://artofmathematics.org/) has videos on their webpage, located [here](http://artofmathematics.org/media?qt-media_library=1#qt-media_library).
+
+Students tackling $3a+5b$ proofs:
+
+- [Blog post](http://www.artofmathematics.org/blogs/jfleron/3a5b-proofs) (includes videos)
+- [Group discussing](http://www.artofmathematics.org/media/video-401) (2:24), [YouTube link](https://www.youtube.com/watch?v=Q3H4ADPQih4)
+- [Student presenting](http://www.artofmathematics.org/media/video-400) (1:53), [YouTube link](https://www.youtube.com/watch?v=ZyJIl8fv3mY)
+- [Another group discussing](http://www.artofmathematics.org/media/video-402) (0:34), [YouTube link](https://www.youtube.com/watch?v=AOGKg8EXVlU)
+
+Additional videos:
+
+- [Small group discussion](http://www.artofmathematics.org/media/video-362) (1:53), [YouTube link](https://www.youtube.com/watch?v=5Pto72ni3Kk)
