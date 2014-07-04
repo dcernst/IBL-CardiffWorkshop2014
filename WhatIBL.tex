@@ -1,0 +1,178 @@
+\documentclass[10pt,handout]{beamer}
+
+\usepackage{spot}
+
+\usepackage{tikz}
+\usetikzlibrary{shapes}
+\usetikzlibrary{decorations.pathmorphing} 
+\usepackage{color}
+
+\usetheme{Pittsburgh}
+\usecolortheme{seahorse}
+\useoutertheme{split}
+
+\setbeamertemplate{footline}[split, frame number]
+\setbeamertemplate{enumerate items}[default]
+\setbeamertemplate{itemize items}[circle]
+
+\newtheorem{comments}{Comments}
+\newtheorem{question}{Question}
+\newtheorem{goal}{Goal}
+\newtheorem{remark}{Remark}
+\newtheorem{proposition}{Proposition}
+\newtheorem{conjecture}{Conjecture}
+
+\newcommand*\oldmacro{}
+\let\oldmacro\insertshorttitle
+\renewcommand*\insertshorttitle{
+\oldmacro\hfill
+\insertframenumber\,/\,\inserttotalframenumber}
+
+%% ----------------------------------------------------------------------  
+
+\begin{document}
+
+\setspotlightstyle{rectangle, rounded corners,fill=structure.fg!25!white,path fading=none}
+
+\title[Inquiry-Based Education in Mathematics]
+{\large \textbf{Inquiry-Based Education in Mathematics: Models, Methods, \& Effectiveness for Higher Education}}
+\author[D.C.~Ernst and TJ Hitchman]{Dana C.~Ernst, Northern Arizona University\\
+Theron Hitchman, University of Northern Iowa}
+\institute{\url{http://danaernst.com}\\
+\url{http://www.uni.edu/theron/}}
+
+\vspace{1em}
+
+\date{\textbf{Workshop on Innovations in Higher\\ Education Mathematics Teaching}\\
+Cardiff University, 7--9 July 2014}
+
+\frame{\titlepage}
+
+%% ----------------------------------------------------------------------
+
+\begin{frame}
+
+\vfill
+\begin{center}
+\spot[inner sep=3.5ex]{{\Huge \textbf{What is IBL?}}}
+\end{center}
+\vfill
+
+\end{frame}
+
+%% ----------------------------------------------------------------------
+
+\begin{frame}
+
+\begin{block}{The Big Picture}
+
+\vspace{1em}
+
+\spot[inner sep=1ex]{{
+\begin{quote}
+\textbf{If we really want students to be independent, inquisitive, \& persistent, then we need to provide them with the means to acquire these skills.}
+\end{quote}
+}}
+\end{block}
+
+\end{frame}
+
+%% ----------------------------------------------------------------------
+
+\begin{frame}
+
+\begin{block}{What is inquiry-based learning (IBL)?}
+\begin{itemize}
+\item Hard to define! Manifests itself differently in different contexts.
+\item According to the \alert{Academy of Inquiry-Based Learning}:
+\begin{itemize}\normalsize
+\item IBL is a teaching method that engages students in sense-making activities.
+\item Students are given tasks requiring them to solve problems, conjecture, experiment, explore, create, & communicate.
+\item Rather than showing facts and/or algorithms, the instructor guides students via well-crafted problems.
+\end{itemize}
+\item Often involves very little lecturing, and typically involves student presentations.
+\item Example: Modified Moore Method, after R.L. Moore.
+\item Students should as much as possible be responsible for:
+\begin{itemize}\normalsize
+\item guiding the acquisition of knowledge and,
+\item validating the ideas presented. (Students should not be looking to the instructor as the sole authority.)
+\end{itemize}
+\end{itemize}
+\end{block}
+
+\end{frame}
+
+%% ----------------------------------------------------------------------
+
+\begin{frame}
+
+\begin{block}{Guiding Principle of IBL}
+Continually ask yourself the following question:
+
+\vspace{1em}
+
+\spot[inner sep=1ex]{ 
+\begin{quote}
+\textbf{Where do I draw the line between content I must impart to my students versus content they can produce independently?}
+\end{quote}}
+
+\end{block}
+
+\begin{block}{Our Main Objective}
+How do we get here?
+
+\begin{center}
+\tikzstyle{block} = [rectangle, fill=structure.fg!25!white, text width=6em, text centered, rounded corners, minimum height=2.5em,inner sep=1ex]
+\tikzstyle{line} = [draw, very thick, -stealth]
+\begin{tikzpicture}
+\node [block] (answer) at (0,0) {\textbf{Students answering questions}};
+\node [block] (ask) at (4,0) {\textbf{Students asking questions}};
+\path [line] (answer) -- (ask);
+\end{tikzpicture}
+\end{center}
+\end{block}
+
+\end{frame}
+
+%% ----------------------------------------------------------------------
+
+\begin{frame}
+
+\begin{block}{Two Typical Approaches/Modes to IBL}
+\begin{enumerate}
+\item Student presentations.
+\item Small group work.
+\end{enumerate}
+Most IBL instructors implement some combination.
+\end{block}
+
+\begin{block}{IBL vs Presentations/Group Work}
+\begin{itemize}
+\item Student presentations \& group work act as vehicles for IBL. 
+\item Yet student presentations \& group do not imply IBL. 
+\item What matters is what is happening during these activities.
+\end{itemize}
+\end{block}
+
+\end{frame}
+
+%% ----------------------------------------------------------------------
+
+\begin{frame}
+
+\begin{block}{IBL vs Inverted/Flipped Pedagogy}
+\begin{itemize}
+\item IBL/Moore Method is an instructional practice.
+\item The flipped classroom is:
+    \begin{itemize}\normalsize
+    \item A platform, not an instructional practice. 
+    \item Centered around the idea of removing some/all of the information transfer tasks outside of class & replacing the time that’s freed up with whatever instructor feels is appropriate.
+    \end{itemize}
+\end{itemize}
+\end{block}
+
+\end{frame}
+
+%% ----------------------------------------------------------------------
+
+\end{document}
