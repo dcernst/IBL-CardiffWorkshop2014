@@ -1,4 +1,4 @@
-\documentclass[10pt,handout]{beamer}
+\documentclass[10pt]{beamer}
 
 \usepackage{spot}
 
@@ -31,6 +31,8 @@
 %% ----------------------------------------------------------------------  
 
 \begin{document}
+
+\setbeamercovered{transparent}
 
 \setspotlightstyle{rectangle, rounded corners,fill=structure.fg!25!white,path fading=none}
 
@@ -66,21 +68,21 @@ Cardiff University, 7--9 July 2014}
 
 \begin{block}{One minute version of why IBL}
 \begin{itemize}
-\item Our system needs an upgrade.
-\item Unintended negative outcomes via traditional methods.
-\item Research suggests IBL outcomes are better.
+\item<2-> Our system needs an upgrade.
+\item<3-> Unintended negative outcomes via traditional methods.
+\item<4-> Research suggests IBL outcomes are better.
 \end{itemize}
 \end{block}
 
 \vspace{1em}
 
-\spot{{\large \begin{quote}
+\spot<5->{{\large \begin{quote}<5->
 ``Things my students claim that I taught them masterfully, they don’t know." -- Dylan Retsek
 \end{quote}}}
 
-\vspace{1em}
-
-If we really want students to be independent, inquisitive, & persistent, then we need to provide them with the means to acquire these skills.
+%\vspace{1em}
+%
+%If we really want students to be independent, inquisitive, \& persistent, then we need to provide them with the means to acquire these skills.
 
 \end{frame}
 
@@ -90,14 +92,14 @@ If we really want students to be independent, inquisitive, & persistent, then we
 
 \begin{block}{My IBL origins}
 \begin{itemize}
-\item When I started teaching, I mimicked the experiences I had as a student (i.e., I lectured).
-\item By most metrics, I was a successful teacher (e.g., high evaluations, several awards). Why change?
-\item Inspired by a Project NExT Workshop run by Carol Schumacher (Kenyon College), I decided to give IBL a try.
-\item For 3 consecutive semesters, I taught an intro to proof course at Plymouth State University.
-\item 1st two iterations taught via lecture-based approach.
-\item 3rd time taught using IBL with emphasis on collaboration.
-\item When I taught an abstract algebra course containing students from both styles, anecdotal evidence suggested  students taught via IBL were stronger proof-writers \& more independent as learners.
-\item I was sold from that moment on.
+\item<2-> When I started teaching, I mimicked the experiences I had as a student (i.e., I lectured).
+\item<3-> By most metrics, I was a successful teacher (e.g., high evaluations, several awards). Why change?
+\item<4-> Inspired by a Project NExT Workshop run by Carol Schumacher (Kenyon College), I decided to give IBL a try.
+\item<5-> For 3 consecutive semesters, I taught an intro to proof course at Plymouth State University.
+\item<6-> 1st two iterations taught via lecture-based approach.
+\item<7-> 3rd time taught using IBL with emphasis on collaboration.
+\item<8-> When I taught an abstract algebra course containing students from both styles, anecdotal evidence suggested  students taught via IBL were stronger proof-writers \& more independent as learners.
+\item<9-> I was sold from that moment on.
 \end{itemize}
 \end{block}
 
@@ -111,27 +113,27 @@ If we really want students to be independent, inquisitive, & persistent, then we
 \column{.7\textwidth}
 \begin{block}{Some Data}
 \begin{itemize}
-\item 2010: 3.7 million students in secondary school. % http://goo.gl/hRixYj
-\item 2010: 52\% of those go to University. % http://goo.gl/hwZHYU
-\item 2013: 38\% of the UK population had a degree. % http://www.ons.gov.uk/ons/dcp171776_337841.pdf
+\item<2-> 2010: 3.7 million students in secondary school. % http://goo.gl/hRixYj
+\item<3-> 2010: 52\% of those go to University. % http://goo.gl/hwZHYU
+\item<4-> 2013: 38\% of the UK population had a degree. % http://www.ons.gov.uk/ons/dcp171776_337841.pdf
 %\item 2013: 47\% of graduates don't take up graduate jobs. % http://goo.gl/eEQRlh
-\item 2010: 16,000 people started a PhD. % http://goo.gl/fcuaqf
+\item<5-> 2010: 16,000 people started a PhD. % http://goo.gl/fcuaqf
 \end{itemize}
 \end{block}
 \column{.2\textwidth}
 \begin{center}
-\includegraphics[width=1in]{Funnel.jpg}
+\includegraphics[width=1in]{Funnel.jpg}<6->
 \end{center}
 \end{columns}
 
-\begin{block}{Conclusion?}
+\begin{block}{Conclusion?}<7->
 Education is a self-populating institution!
 \vspace{1em}
 \begin{center}
-\spot[inner sep=1.5ex]{{\large \textbf{You are peculiar!}}}
+\spot<8->[inner sep=1.5ex]{{\onslide<8->{\large \textbf{You are peculiar!}}}}
 \end{center}
 \vspace{1em}
-We need to renormalize.
+\onslide<9->{We need to renormalize.}
 
 \end{block}
 
@@ -143,18 +145,18 @@ We need to renormalize.
 
 \begin{block}{What is happening in STEM education?}
 \begin{itemize}
-\item There exists a growing body of evidence suggesting students are dissatisfied with learning experiences in STEM.
-\item Math Education Research suggests that college students have difficulty with:
+\item<2-> There exists a growing body of evidence suggesting students are dissatisfied with learning experiences in STEM.
+\item<3-> Math Education Research suggests that college students have difficulty with:
     \begin{itemize}\normalsize
-    \item Solving non-routine problems,
-    \item Packing/Unpacking mathematical statements,
-    \item Proof.
+    \item<4-> Solving non-routine problems,
+    \item<4-> Packing/Unpacking mathematical statements,
+    \item<4-> Proof.
     \end{itemize}
 \end{itemize}
 
 \vspace{1em}
 
-Schoenfeld 1988, Muis 2004, Selden and Selden 1995/1999/2003, Dreyfus 2001, Sowder and Harel 2003, Weber 2001/2003, Weber and Alcock 2004, Tall 1994
+\onslide<5->{Schoenfeld 1988, Muis 2004, Selden and Selden 1995/1999/2003, Dreyfus 2001, Sowder and Harel 2003, Weber 2001/2003, Weber and Alcock 2004, Tall 1994}
 
 \end{block}
 
@@ -210,14 +212,14 @@ Boaler 1998, Kwon et al. 2005, Rassmussen et al. 2006, Smith 2006, Chappell 2006
 
 \begin{block}{The Colorado Study by Sandra Laursen et al.}
 \begin{itemize}
-\item Quasi-experimental study: Data include 300 hours of classroom observation, 1100 surveys, 110 interviews, 220 tests, and 3200 academic transcripts, gathered from $>100$ course sections at 4 campuses over 2 years.
-\item Statistically significant advantages for students in IBL vs traditional courses.
+\item<2-> Quasi-experimental study: Data include 300 hours of classroom observation, 1100 surveys, 110 interviews, 220 tests, and 3200 academic transcripts, gathered from $>100$ course sections at 4 campuses over 2 years.
+\item<3-> Statistically significant advantages for students in IBL vs traditional courses.
 \end{itemize}
 \end{block}
 
 \vspace{-1em}
 
-\begin{center}
+\onslide<4->{\begin{center}
 \tikzstyle{block} = [rectangle, fill=structure.fg!25!white, text width=4em, text centered, rounded corners, minimum height=2.5em]
 \tikzstyle{line} = [draw, very thick, stealth-]
 \begin{tikzpicture}[scale=.9]
@@ -236,7 +238,7 @@ Boaler 1998, Kwon et al. 2005, Rassmussen et al. 2006, Smith 2006, Chappell 2006
 \path [line] (IBL) -- (gender);
 \path [line] (IBL) -- (observations);
 \end{tikzpicture}
-\end{center}
+\end{center}}
 
 \end{frame}
 
@@ -251,11 +253,11 @@ Boaler 1998, Kwon et al. 2005, Rassmussen et al. 2006, Smith 2006, Chappell 2006
 \end{enumerate}
 \end{block}
 
-\begin{block}{Laursen et al. 2013}
+\begin{block}{Laursen et al. 2013}<2->
 \emph{``Our study indicates that the benefits of active learning experiences may be lasting and significant for some student groups, with no harm done to others. Importantly, ‘covering’ less material in inquiry-based sections had no negative effect on students' later performance in the major."}
 \end{block}
 
-\begin{block}{Laursen et al. 2014}
+\begin{block}{Laursen et al. 2014}<3->
 \emph{``Despite variation in how IBL was implemented, student outcomes are improved in IBL courses relative to traditionally taught courses, as assessed by general measures that apply across course types. Particularly striking, the use of IBL eliminates a sizable gender gap that disfavors women students in lecture-based courses."}
 \end{block}
 
