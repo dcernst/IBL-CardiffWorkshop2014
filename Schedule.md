@@ -7,7 +7,7 @@
 # Day One (15:00-16:30, 1.5 hours) #
 
 1. Think-Pair-Share talk focusing on goals, leading to structural choices (30-40 mins)
-  - TJ and Dana take turns
+  - TJ and Dana take turns?
 2. Short break (10 mins)
 3. What is IBL? (15-20 mins)
   - Dana has 7 slides
@@ -20,7 +20,8 @@
   - Dana has 10 slides
   - Evidence for effectiveness
   - 15 mins
-6. Short testimonials
+6. Short testimonials (5-10 mins each)
+  - No slides, just talk
   - What does TJ do?
   - What does Dana do?
 7. Note cards
