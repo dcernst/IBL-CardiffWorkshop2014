@@ -40,7 +40,7 @@
 
 1. Greeting & 3x5 card summary (5-10 mins)
 2. Videos and discussion (60 mins)
-  - Questions to prompt participant discussion:
+  - Questions to prompt participant discussion (do we want these on a slide?):
     * What is presenter doing?
     * What is teacher doing?
     * What is the audience doing?
