@@ -7,24 +7,23 @@
 # Day One (15:00-16:30, 1.5 hours) #
 
 1. Think-Pair-Share talk focusing on goals, leading to structural choices (30-40 mins)
-  - TJ and Dana take turns?
+  - TJ
 2. Short break (10 mins)
 3. What is IBL? (15-20 mins)
   - Dana has 7 slides
   - IBL definition
   - Spectrum idea
-4. Video? (10-30 mins)
-  - A good choice might be Royal's proof from "End of Semester Video" (0:00-12:00)
-  - Or use one of the short DAofM videos.  Perhaps [this one](https://www.youtube.com/watch?v=Q3H4ADPQih4) (2:24 mins)
 5. Why IBL? (15-20 mins)
   - Dana has 10 slides
   - Evidence for effectiveness
-  - 15 mins
 6. Short testimonials (5-10 mins each)
   - No slides, just talk
   - What does TJ do?
   - What does Dana do?
-7. Note cards
+7. Video if time (10-30 mins)
+	- A good choice might be Royal's proof from "End of Semester Video" (0:00-12:00)
+	- Or use one of the short DAofM videos.  Perhaps [this one](https://www.youtube.com/watch?v=Q3H4ADPQih4) (2:24 mins)
+8. Note cards
   - "What do you want to see tomorrow?"
   - "What questions do you have about IBL?"
   - Highlight good choices:
