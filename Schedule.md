@@ -16,14 +16,11 @@
 5. Why IBL? (15-20 mins)
   - Dana has 10 slides
   - Evidence for effectiveness
-6. Short testimonials (5-10 mins each)
+6. Short testimonials (5-10 mins each) *Never got to this*
   - No slides, just talk
   - What does TJ do?
   - What does Dana do?
-7. Video if time (10-30 mins)
-	- A good choice might be Royal's proof from "End of Semester Video" (0:00-12:00)
-	- Or use one of the short DAofM videos.  Perhaps [this one](https://www.youtube.com/watch?v=Q3H4ADPQih4) (2:24 mins)
-8. Note cards
+7. Note cards
   - "What do you want to see tomorrow?"
   - "What questions do you have about IBL?"
   - Highlight good choices:
@@ -45,7 +42,7 @@
     * What is teacher doing?
     * What is the audience doing?
     * What would you do differently?
-  - Starbird videos:
+  - Starbird videos: *This wouldn't load*
     * Context: number theory at University of Texas, small class, meant to be their introduction to proof class
     * Royal's proof from "End of Semester Video" (0:00-12:30, 12:30 mins). This video is from the end of the semester.
     * Virginia's proof from "Developing a sense of proof" (5:21-10:32, 5:41 mins). This video is from week 1.
@@ -60,7 +57,7 @@
       - [Another group discussing](http://www.artofmathematics.org/media/video-402) (0:34 mins), [YouTube link](https://www.youtube.com/watch?v=AOGKg8EXVlU)
       - [Small group discussion](http://www.artofmathematics.org/media/video-362) (1:53 mins), [YouTube link](https://www.youtube.com/watch?v=5Pto72ni3Kk)
 5. Short break, reshuffle tables (5 mins)
-6. Dana and TJ testimonials (flexible depending on time)
+6. Dana and TJ testimonials (flexible depending on time) *Never got to this*
 7. Discussion of challenges (30-45 mins)
   - What are the challenges and obstacles to implementing IBL?
   - Bring these up if they don't arise naturally:
@@ -72,13 +69,13 @@
 8. Discussion of solutions (30-45 mins)
   - Reshuffle groups  
   - Small groups share out
-9. Activity "series discussion" (20-30 mins)
+9. Activity "series discussion" (20-30 mins) *Never got to this*
   - Small groups with handout
   - Small groups share out
-10. Nuts and Bolts discussion?
+10. Nuts and Bolts discussion? *Never got to this*
   - Dana has misc slides (need to be organized)
   - Be sure to bring up resources
-11. Informal panel discussion, burning questions (15 mins)
+11. Informal panel discussion, burning questions (15 mins) *Never got to this*
 
 # Back-up Activities #
 
