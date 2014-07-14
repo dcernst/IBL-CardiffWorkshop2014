@@ -1,4 +1,4 @@
-# July 29 Hangout Notes:: Prepping for Cardiff
+# July 29 Hangout Notes
 
 <center>Dana Ernst and Theron Hitchman</center>
 
@@ -62,4 +62,4 @@ Ideas:
 TJ
 
 + [x] contact Vince and Paul about room choices
-+ [ ] get TPS talk into beamer format & post to github repo
++ [x] get TPS talk into beamer format & post to github repo
