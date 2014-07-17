@@ -24,14 +24,39 @@ The [Journal of Inquiry Based Learning in Mathematics][jiblm] is a journal dedic
 [aiblres]: http://www.inquirybasedlearning.org/?page=Resources
 
 
+## Some Blogs to follow
+
+Stan Yoshinobu is the director of the Academy of Inquiry Based Learning, and he blogs at 
+
++ [The IBL Blog][ibl]
+
+The Mathematical Association of America hosts a few math education blogs. 
+
++ [Math Ed Matters][mem] by Dana Ernst and Angie Hodge
++ [Launchings][launch] by David Bressoud
++ [Devlin's Angle][da] by Keith Devlin
+
+And since I have your attention, I will set these down too.
+
++ [Circles and Tangents][cat] is TJ Hitchman's reflective practice blog
++ Dana Ernst has an unnamed work-themed blog which sometimes has teaching related stuff in it
++ [Casting Out Nines][con] is Robert Talbert's blog at the _Chronicle of Higher Education_ is an excellent source of wisdom.
+
+[ibl]: http://theiblblog.blogspot.com/
+[mem]: http://maamathedmatters.blogspot.com/
+[launch]: http://launchings.blogspot.com/
+[da]: http://devlinsangle.blogspot.com/
+[cat]: http://theronhitchman.wordpress.com/
+[dce]: http://danaernst.com/
+[con]: http://chronicle.com/blognetwork/castingoutnines/
+
+
 ## Other Disciplines (not math)
 
 We all agree that mathematics is the best reason for living, but sometimes you have to study other things. The ideas behind IBL are similar in spirit to educational initiatives in other disciplines. A few related ideas are here:
 
 + [Peer Instruction][pi] (originated in physics)
 + [Process Oriented Guided Inquiry Learning][pogil] (chemistry)
-
-
 
 [pi]: http://mazur.harvard.edu/research/detailspage.php?rowid=8
 [pogil]: https://pogil.org/
